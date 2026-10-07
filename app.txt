@@ -1,2 +1,6 @@
 This is the original file.
 remote developer added this file.
+
+This is the original file
+hello
+
